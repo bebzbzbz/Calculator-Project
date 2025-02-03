@@ -1,7 +1,7 @@
 # Project Web Calculator
 
 <div style="display: flex; justify-content: center;">
-  <img src="./assets/img/calc_screen.png" alt="Project Screenshot">
+  <img src="./src/assets/img/calc_screen.png" alt="Project Screenshot">
 </div>
 <br/>
 <p>This calculator project is a product of day 32 of the 6-month web development boot camp I am taking and, simultaneously, day 7 of the introduction to Typescript. 
@@ -22,8 +22,8 @@ I am proud of my ability to find solutions and having programmed this calculator
 <p>Made the day before New Year's eve, the goal of this project was to spend the time deepening an understanding of Typescript functions in the framework of the second module of the boot camp.</p>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%">
-    <img src="./assets/img/calc_smartphone.png">
-    <img src="./assets/img/calc_tablet.png">
+    <img src="./src/assets/img/calc_smartphone.png">
+    <img src="./src/assets/img/calc_tablet.png">
 </div>
 
 ## Features
