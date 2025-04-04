@@ -57,7 +57,7 @@
 
 ## Installation & Setup
 
-You can play the game <a href="https://bz-rock-paper-scissors.vercel.app/" title="Play game in browser">here</a> in your local browser. To run the project locally, follow these steps:
+You can check the calculator out <a href="https://bz-calculator-project.vercel.app/" title="See calculator in browser">here</a> in your local browser. To run the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
