@@ -4,9 +4,7 @@
   <img src="./src/assets/img/calc_screen.png" alt="Project Screenshot">
 </div>
 <br/>
-<p>This calculator project is a product of day 32 of the 6-month web development boot camp I am taking and, simultaneously, day 7 of the introduction to Typescript. 
-<br/>
-I am proud of my ability to find solutions and having programmed this calculator as a result. 🌈</p>
+<p>This project is a classic calculator, created during a 6-month web development bootcamp focusing on React.js and TypeScript. 
 
 ## Table of Contents 📑
 
@@ -19,7 +17,7 @@ I am proud of my ability to find solutions and having programmed this calculator
 
 <p>I created this project as a participant of a boot camp for web development focusing on React and Typescript. It was developed over the course of a single day in Visual Studio Code using HTML, CSS and Typescript.</p>
 
-<p>Made the day before New Year's eve, the goal of this project was to spend the time deepening an understanding of Typescript functions in the framework of the second module of the boot camp.</p>
+<p>The goal of this project was to spend the time deepening an understanding of Typescript functions in the framework of the second module of the bootcamp.</p>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%">
     <img src="./src/assets/img/calc_smartphone.png">
