@@ -11,6 +11,7 @@
 - [About](#about)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [Installation & Setup](#installation-&-setup)
 - [Design](#design)
 
 ## About
@@ -54,6 +55,22 @@
 **Version Control:**  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
+## Installation & Setup
+
+You can play the game <a href="https://bz-rock-paper-scissors.vercel.app/" title="Play game in browser">here</a> in your local browser. To run the project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/bebzbzbz/Rock-Paper-Scissors-Game.git
+   ```
+
+2. **Install dependencies & run the development server:**
+   ```bash
+   npm install
+   npm run dev
+   ```
+
+3. **Open your local host and enjoy!**
 
 ## Design
 
