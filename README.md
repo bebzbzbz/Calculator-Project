@@ -61,7 +61,7 @@ You can check the calculator out <a href="https://bz-calculator-project.vercel.a
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/bebzbzbz/Rock-Paper-Scissors-Game.git
+   git clone https://github.com/bebzbzbz/Calculator-Project.git
    ```
 
 2. **Install dependencies & run the development server:**
